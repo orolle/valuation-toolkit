@@ -13,3 +13,5 @@ var ValuationTK = (function () {
 	
 	return my;
 }());
+
+alert('VTK exec!');
