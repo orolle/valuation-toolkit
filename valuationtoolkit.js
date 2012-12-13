@@ -10,6 +10,7 @@ var ValuationTK = (function () {
 	my.hello = function () {
 	  alert('Hello Investor!');
 	};
+	window.ValuationTK = my;
 	
 	return my;
 }());
