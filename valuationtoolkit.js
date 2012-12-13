@@ -1,3 +1,4 @@
+alert('VTK JS!');
 var ValuationTK = (function () {
   var my = {},
 		privateVariable = 1;
