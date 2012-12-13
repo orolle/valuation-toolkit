@@ -11,8 +11,8 @@ var ValuationTK = (function () {
 	  alert('Hello Investor!');
 	};
 	window.ValuationTK = my;
+	alert('VTK exec!');
 	
 	return my;
 }());
 
-alert('VTK exec!');
