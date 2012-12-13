@@ -1,0 +1,2 @@
+
+alert('Hello Value Investor!');
